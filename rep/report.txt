@@ -1,0 +1,12 @@
+react-select:- filtering options
+react-table:-  dropdown date range, location, or category.visualize your report data in a dynamic and customizable table format.
+
+django-webpack-loader:- integrate Webpack and its associated tools with your Django
+                        automatically update them when changes are made, without having to manually update your Django templates.
+
+django-report-builder:-
+ReportLab use this library to download the report in all other formats
+
+Caching-you can use caching to store generated reports for a certain period of time
+Gzip compression:
+celery: to run Asynchronous and is a distributed task queue that allows you to run Asynchronous

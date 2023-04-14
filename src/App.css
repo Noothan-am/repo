@@ -1,0 +1,66 @@
+.btn {
+     flex: 1;
+     margin-left: 2rem;
+     margin-top: 2rem;
+     display: flex;
+     flex-direction: column;
+}
+
+.home {
+     display: flex;
+     justify-content: space-evenly;
+}
+
+.main {
+     flex: 5;
+     margin-left: 2rem;
+     border: 1px solid rebeccapurple;
+     margin-top: 3rem;
+     padding: 2rem;
+     height: 80vh;
+     overflow: scroll;
+}
+
+.editor {
+     flex: 2;
+     margin-left: 2rem;
+     padding: 1rem;
+     margin-top: 3rem;
+}
+
+.btn button {
+     margin-top: 1rem;
+     cursor: pointer;
+     padding: .6rem;
+     font-size: 1.2rem;
+}
+
+.items span {
+     margin-left: 1.5rem;
+     cursor: pointer;
+}
+
+.items {
+     border: 1px solid red;
+     padding: 1rem;
+     margin-bottom: 1rem;
+}
+
+.title {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+}
+
+.options {
+     margin-top: 1.3rem;
+}
+
+.editor {
+     border: 1px solid red;
+     height: 50vh;
+}
+
+/* .title {
+     margin-left: 1rem;
+} */

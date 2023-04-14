@@ -1,0 +1,11 @@
+orm is a tool used to make things happen 
+view is a Python function that takes a web request and returns a web response and render the data in templete defined
+to retrieve the data that will be used in the report.This might involve running a database query, accessing an external 
+     API, or performing some other kind of data processing.
+
+Manuplating the data by sorting the data, filtering it, or grouping it in some way.
+context data will store the data which is passed to the report templete for rendering
+
+ReportLab use this library to download the report 
+django-webpack-loader to combine 
+react-select, react-table 
